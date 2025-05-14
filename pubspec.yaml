@@ -1,0 +1,23 @@
+name: components_plus
+description: "A Flutter package that provides a variety of utility components and a customizable button with a shrinking animation effect."
+version: 1.0.0
+homepage: "https://github.com/Lingeshwaran78/Components"
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  fluttertoast: ^8.2.6
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
